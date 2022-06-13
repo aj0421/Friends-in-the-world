@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Friends-in-the-world</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="login">Login</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="create_group">CREATE A GROUP</string>
+    <string name="manage_group">MANAGE GROUPS</string>
+    <string name="join_group">JOIN A GROUP</string>
+    <string name="leave_group">LEAVE A GROUP</string>
+    <string name="enter_gname">Enter group name</string>
+    <string name="select_language">Select a language</string>
+    <string name="settings">Settings</string>
+    <string name="greet_group">Hello %1$s! You are in group %2$s.</string>
+    <string name="greet_nogroup">Hello %1$s! Join or create a group!</string>
+    <string name="file">test</string>
+</resources>
